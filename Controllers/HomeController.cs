@@ -1,7 +1,4 @@
-using GameZone.Models;
-using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-
 namespace GameZone.Controllers
 {
     public class HomeController : Controller
