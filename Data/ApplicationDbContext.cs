@@ -1,6 +1,3 @@
-﻿using GameZone.Models;
-using Microsoft.Identity.Client.Extensibility;
-
 namespace GameZone.Data
 {
     public class ApplicationDbContext : DbContext
